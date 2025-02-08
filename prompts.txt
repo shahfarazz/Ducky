@@ -1,0 +1,7 @@
+quick_chat_system_prompt
+general_ducky_code_starter_prompt
+review_prompt
+modify_code_prompt
+debug_prompt
+system_learning_prompt
+learning_prompt
